@@ -1,6 +1,6 @@
 <!-- ASCII Banner -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+[Your+Name]!;Final+Year+CS+Student+%F0%9F%92%BB;Lover+of+Tech%2C+Music%2C+and+Fantasy+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Marco Geral!;Final+Year+CS+Student+%F0%9F%92%BB;Lover+of+Tech%2C+Music%2C+and+Fantasy+%E2%9C%A8" alt="Typing SVG" />
 </h1>
 
 ---
