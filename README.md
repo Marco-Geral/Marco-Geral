@@ -16,7 +16,6 @@
 
 ## 🛠️ Tech Stack
 
-```markdown
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B)
 ![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c)
