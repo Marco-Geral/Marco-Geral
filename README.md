@@ -40,8 +40,8 @@
 - 🌿 [**Farm**](https://github.com/Marco-Geral/Farm)  
   > A program that focuses on design pattern use to simulate a Farm
 
-- 🎮 [**FantasyQuizzer**](https://github.com/Marco-Geral/fantasy-quizzer)  
-  > A fun, themed CLI quiz game built in C++ & Python.
+- 🎮 [**Hoop Streaming Service**](https://github.com/Marco-Geral/Hoop-Streaming-Service)  
+  > An application that serves as a movies streaming site
 
 ---
 
