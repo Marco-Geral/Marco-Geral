@@ -34,8 +34,8 @@
 
 ## 📌 Featured Projects
 
-- 🔐 [**SecureNotes**](https://github.com/Marco-Geral/secure-notes)  
-  > A simple, elegant web app for encrypted note-taking using React & Node.js.
+- 🔐 [**World-Builder**](https://github.com/Marco-Geral/WorldBuilder-Project)  
+  > An app that simulates a population World-Builder game.
 
 - 🌿 [**Plantify**](https://github.com/Marco-Geral/plantify)  
   > An AI-powered Pokedex for real-world plants and animals — nature meets code.
