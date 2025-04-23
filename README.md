@@ -37,8 +37,8 @@
 - 🔐 [**World-Builder**](https://github.com/Marco-Geral/WorldBuilder-Project)  
   > An app that simulates a population World-Builder game.
 
-- 🌿 [**Plantify**](https://github.com/Marco-Geral/plantify)  
-  > An AI-powered Pokedex for real-world plants and animals — nature meets code.
+- 🌿 [**Farm**](https://github.com/Marco-Geral/Farm)  
+  > A program that focuses on design pattern use to simulate a Farm
 
 - 🎮 [**FantasyQuizzer**](https://github.com/Marco-Geral/fantasy-quizzer)  
   > A fun, themed CLI quiz game built in C++ & Python.
