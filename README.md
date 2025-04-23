@@ -52,17 +52,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marco-Geral&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
----
-
-## 🎵 Now Playing on Spotify
-
-> *Note: You need to configure this once to connect with your Spotify.*
-
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=your-spotify-id&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&bar_color=1DB954&bar_color_cover=false" alt="Spotify Now Playing" />
-</p>
-
----
 
 ## 📫 Let's Connect!
 
