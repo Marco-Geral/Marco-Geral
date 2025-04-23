@@ -66,9 +66,8 @@
 
 ## 📫 Let's Connect!
 
-- 💌 Email: [your.email@example.com](mailto:your.email@example.com)  
-- 💼 LinkedIn: [https://linkedin.com/in/your-linkedin](https://linkedin.com/in/your-linkedin)
-- 🌐 Portfolio: [https://your-portfolio.com](https://your-portfolio.com)
+- 💌 Email: [marcogeral1@gmail.com](mailto:marcogeral1@gmail.com)  
+- 💼 LinkedIn: [https://www.linkedin.com/in/marco-geral-820b7a355/](https://www.linkedin.com/in/marco-geral-820b7a355/)
 
 ---
 
