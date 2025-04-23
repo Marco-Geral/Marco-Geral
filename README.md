@@ -1,6 +1,6 @@
 <!-- ASCII Banner -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Marco Geral!;Final+Year+CS+Student+%F0%9F%92%BB;Lover+of+Tech%2C+Music%2C+and+Fantasy+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Marco!;Final+Year+CS+Student+%F0%9F%92%BB;Lover+of+Tech%2C+Music%2C+and+Fantasy+%E2%9C%A8" alt="Typing SVG" />
 </h1>
 
 ---
@@ -30,3 +30,46 @@
 ![Scheme](https://img.shields.io/badge/-Scheme-lightgrey?style=for-the-badge)
 ![Prolog](https://img.shields.io/badge/-Prolog-lightgrey?style=for-the-badge)
 
+---
+
+## 📌 Featured Projects
+
+- 🔐 [**SecureNotes**](https://github.com/Marco-Geral/secure-notes)  
+  > A simple, elegant web app for encrypted note-taking using React & Node.js.
+
+- 🌿 [**Plantify**](https://github.com/Marco-Geral/plantify)  
+  > An AI-powered Pokedex for real-world plants and animals — nature meets code.
+
+- 🎮 [**FantasyQuizzer**](https://github.com/Marco-Geral/fantasy-quizzer)  
+  > A fun, themed CLI quiz game built in C++ & Python.
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Marco-Geral&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marco-Geral&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+## 🎵 Now Playing on Spotify
+
+> *Note: You need to configure this once to connect with your Spotify.*
+
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=your-spotify-id&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&bar_color=1DB954&bar_color_cover=false" alt="Spotify Now Playing" />
+</p>
+
+---
+
+## 📫 Let's Connect!
+
+- 💌 Email: [your.email@example.com](mailto:your.email@example.com)  
+- 💼 LinkedIn: [https://linkedin.com/in/your-linkedin](https://linkedin.com/in/your-linkedin)
+- 🌐 Portfolio: [https://your-portfolio.com](https://your-portfolio.com)
+
+---
+
+> “The best way to predict the future is to invent it.” — Alan Kay
